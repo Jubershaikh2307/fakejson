@@ -12,5 +12,12 @@
       "content": "Wow such content!",
       "username": "zero_cool"
     }
+  ],
+  "todo":[
+    {
+      "id": 0,
+      "title": "Wow such content!",
+      "status": false
+    }
   ]
 }
